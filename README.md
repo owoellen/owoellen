@@ -13,7 +13,7 @@
 
 - 🤝 looking for help with: **still nothing yet TwT**
 
-- 👨‍💻 my portfolio: [[not done yet sorry :c]]([not done yet sorry :c])
+- 👨‍💻 my portfolio: [not done yet sorry :c]
 
 - 💬 ask me about: **foxes /hj**
 
