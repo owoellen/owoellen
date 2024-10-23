@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owoellen" alt="owoellen" /></a> </p>
 
-- 🔭 working on: **nothing atm (school)**
+- 🔭 working on: **SideStore's documentation**
 
 - 🌱 currently learning: **VB.Net (could my school not have done like... python or smth)**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/ellendegenerate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ellendegenerate" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ellendegenerate." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ellendegenerate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
